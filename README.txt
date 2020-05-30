@@ -1,3 +1,1 @@
-Jessica Lin
-Cynthia Cheung 
-Andrew Cao
+Movie Rental System
